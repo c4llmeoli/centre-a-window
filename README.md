@@ -13,7 +13,7 @@ This is an extremely light C program that gets the size of any window you pick, 
 - **Multi-monitor aware.** The window gets centred on whichever monitor it's already on.
 - **Optional taskbar mode.** Tick *Ignore taskbar* to centre the window in the space above the taskbar instead of the full screen.
 - **Handles maximised/minimised windows** by restoring them first, then centring.
-- **Classic Windows 95-style UI.** It's a tool, not a lifestyle.
+- **Classic Windows 95-style UI.**
 
 ## Usage
 
@@ -21,7 +21,7 @@ This is an extremely light C program that gets the size of any window you pick, 
 2. Pick the window you want from the list.
 3. Click **Centre** (or just double-click the window in the list).
 
-That's it. Hit **Refresh** if you opened something new after starting the program.
+Hit **Refresh** if you opened something new after starting the program.
 
 The bar at the bottom tells you what happened, for example:
 
