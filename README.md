@@ -5,7 +5,7 @@ This has been the biggest pet peeve of mine of ALL TIME so I made a program for 
 
 This is an extremely light C program that gets the size of any window you pick, works out exactly where the middle of your screen is, and moves the window there.
 
-
+![Screenshot](screenshot.png)
 
 ## Features
 
