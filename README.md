@@ -3,7 +3,7 @@
 Ever accidentally moved a window out of the default position, and you can't seem to get it back in the perfect spot?
 This has been the biggest pet peeve of mine of ALL TIME so I made a program for it.
 
-This is an extremely light C program that gets the size of any window you pick, works out exactly where the middle of your screen is, and moves the window there. No installer, no dependencies, no background process. It's one ~140 KB `.exe` that only uses what's already built into Windows.
+This is an extremely light C program that gets the size of any window you pick, works out exactly where the middle of your screen is, and moves the window there.
 
 ## Features
 
