@@ -5,9 +5,11 @@ This has been the biggest pet peeve of mine of ALL TIME so I made a program for 
 
 This is an extremely light C program that gets the size of any window you pick, works out exactly where the middle of your screen is, and moves the window there.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
-- **Lists every open window** with its title and the program it belongs to (e.g. `Untitled - Notepad   [notepad.exe]`)
+- **Lists every open window** with its title and the program it belongs to (e.g. `Untitled - Notepad [notepad.exe]`)
 - **Pixel-perfect centring.** Windows 10/11 put invisible ~7px borders around most windows, which throws off the usual "screen size minus window size, divided by two" maths. This centres the edges you can actually *see*.
 - **Works on scaled displays.** 125%, 150%, whatever. It works in real screen pixels, so DPI scaling doesn't knock it off centre.
 - **Multi-monitor aware.** The window gets centred on whichever monitor it's already on.
